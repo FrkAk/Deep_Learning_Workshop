@@ -5,3 +5,4 @@ sklearn
 matplotlib
 IPython
 pydot
+numpy
