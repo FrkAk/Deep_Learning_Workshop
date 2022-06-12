@@ -1,4 +1,7 @@
 tensorflow
+tensorflow_datasets
+pandas
+sklearn
 matplotlib
 IPython
 pydot
